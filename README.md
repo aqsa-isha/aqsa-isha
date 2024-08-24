@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/aqsa-isha/Aqsa-Isha-Soomro/blob/main/Hello%20Dribbble!.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-isha&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa-isha" /> </p>
 
-- 🌱 I’m currently learning **Mobile Application Development in Java.**
+- 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
 
 - 💬 Ask me about **programming languages**
 
